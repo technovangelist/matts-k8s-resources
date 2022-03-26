@@ -1,0 +1,4 @@
+defaultArgs:
+  - --cert-dir=/tmp
+  - --secure-port=4443
+  - --kubelet-insecure-tls
